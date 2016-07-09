@@ -32,6 +32,7 @@ $ nodejs main.js
 You can see the result in terminal - Puedes ver el resultado en el terminal.
 
 
+## References
 All documentation in [Seneca.js](http://senecajs.org) site.
 
 Reference book: [Developing Microservices with Node.js - David González](https://www.packtpub.com/web-development/developing-microservices-nodejs)
