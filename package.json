@@ -1,5 +1,5 @@
 { 
-  "name": "microservices1_noServer",
+  "name": "seneca1_noServer",
   "version": "1.0.0",
   "description": "Simple microservice example",
   "keywords": [
@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yorso/microservices_seneca/tree/master/microservices1_noServer"
+    "url": "https://github.com/Yorso/seneca1_noServer"
   },
   "bugs": {
-    "url": "https://github.com/Yorso/microservices_seneca/issues"
+    "url": "https://github.com/Yorso/seneca1_noServer/issues"
   },
-  "homepage": "https://github.com/Yorso/microservices_seneca/tree/master/microservices1_noServer",
+  "homepage": "https://github.com/Yorso/seneca1_noServer",
   "dependencies": {
     "seneca": "^2.1.0"
   }
