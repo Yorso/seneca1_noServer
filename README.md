@@ -11,7 +11,7 @@ Adds and multiplies two given numbers - Suma y multiplica dos números dados.
 
 
 ## Pre-requisites
-You need to have installed - Necesitas tener instalado: node.js, npm, express and seneca.
+You need to have installed - Necesitas tener instalado: __node.js, npm, express and seneca__.
 
 For Debian and Debian-derived operating systems - Para Debian y sistemas operativos derivados:
 ```
